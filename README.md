@@ -13,7 +13,7 @@
 
 🌟 **My Skills**
 
-[![wakatime](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9.svg)](https://wakatime.com/@915e5316-99c6-4563-a483-ef186cf000c9)
+[![wakatime](https://wakatime.com/badge/user/waka_4621dc67-10b2-4536-9405-69f2e10267a6.svg)](https://wakatime.com/@waka_4621dc67-10b2-4536-9405-69f2e10267a6)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-D33C43?style=flat-square&logo=coffeescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=fff)
