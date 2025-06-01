@@ -13,7 +13,7 @@
 
 🌟 **My Skills**
 
-[![wakatime](https://wakatime.com/badge/user/waka_4621dc67-10b2-4536-9405-69f2e10267a6.svg)](https://wakatime.com/@waka_4621dc67-10b2-4536-9405-69f2e10267a6)
+[![wakatime](https://wakatime.com/badge/user/waka_ce9882df-a4da-4165-b194-63a4ffbe50c2)](https://wakatime.com/@waka_ce9882df-a4da-4165-b194-63a4ffbe50c2)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-D33C43?style=flat-square&logo=coffeescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=fff)
@@ -23,6 +23,11 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
+
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{kyh-ly}/count.svg" />
+</p>
 
 💻 **Wakatime**
 
