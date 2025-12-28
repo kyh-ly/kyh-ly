@@ -10,33 +10,16 @@
 - 💬 Ask me about ...
 
 🌟 **My Skills**
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,go,py,js,java,c,kotlin,emacs,django,elasticsearch" />
   </a>
 </p>
 
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyh-ly&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
-  />
-</picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyh-ly&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 💻 **Wakatime**
 
 <!--START_SECTION:waka-->
